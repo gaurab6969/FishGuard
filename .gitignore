@@ -7,12 +7,8 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Trained models (large binary files)
-models/*.joblib
-
-# Data files (too large for git)
+# Raw data
 data/raw/
-data/processed/
 
 # Reports
 reports/
