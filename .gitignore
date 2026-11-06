@@ -1,0 +1,30 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Trained models (large binary files)
+models/*.joblib
+
+# Data files (too large for git)
+data/raw/
+data/processed/
+
+# Reports
+reports/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Environment variables
+.env
