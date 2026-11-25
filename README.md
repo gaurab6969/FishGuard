@@ -1,6 +1,6 @@
 
-# 🛡️ FishGuard
-### Intelligent Phishing URL & Email Detection System
+# FishGuard
+### Phishing URL & Email Detection System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-blue?logo=python" />
