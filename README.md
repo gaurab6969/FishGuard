@@ -1,5 +1,6 @@
+<div align="center">
 
-# FishGuard
+# 🛡️FishGuard
 ### Phishing URL & Email Detection System
 
 <p align="center">
